@@ -28,3 +28,8 @@ body {
     background-color: bisque;
 }
 
+@media (max-width: 768px) {
+    .box {
+      font-size: 18px;
+    }
+  }
